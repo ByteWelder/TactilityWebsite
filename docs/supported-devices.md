@@ -10,6 +10,7 @@ Recommendations:
 
 |Name|Memory|SD card|ROM|Ext|
 |-|-|-|-|-|
+|[BigTreeTech Panda Touch K Touch](devices/btt-panda-touch.md)(\*)|🟩|🟥|16 MB|🟥|
 |[CYD 2432S024C](devices/cyd-2432s024c.md)|🟧|🟩|4 MB|🟩|
 |[CYD 2432S028R](devices/cyd-2432s028r.md)|🟧|🟩|4 MB|🟩|
 |[CYD 2432S028R v3](devices/cyd-2432s028rv3.md)|🟧|🟩|4 MB|🟩|
@@ -35,7 +36,6 @@ Recommendations:
 |[M5Stack CoreS3](devices/m5stack-cores3.md)|🟩|🟥|16 MB|🟩|
 |[unPhone](devices/unphone.md)|🟩|🟩|8 MB|🟩|
 |[Waveshare ESP32 S3 Touch LCD 4.3"](devices/waveshare-s3-touch-lcd-43.md)|🟩|🟥|4 MB|🟥|
-|[BigTreeTech Panda Touch K Touch](devices/btt-panda-touch.md)(\*)|🟩|🟥|16 MB|🟥|
 
 Incubating:
 
