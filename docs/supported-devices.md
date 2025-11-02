@@ -41,9 +41,9 @@ Incubating:
 
 |Name|Memory|SD card|ROM|Ext|
 |-|-|-|-|-|
+|[LilyGo T-Display](devices/lilygo-tdisplay.md))(\*)|🟧|🟧|16 MB|🟩|
 |[LilyGo T-Display S3](devices/lilygo-tdisplay-s3.md)|🟩|🟩|16 MB|🟩|
 |[LilyGo T-Dongle S3](devices/lilygo-tdongle-s3.md)|🟧|🟩|16 MB|🟩|
-|[LilyGo T-Display](devices/lilygo-tdisplay.md))(\*)|🟧|🟧|16 MB|🟩|
 |[M5Stack StickC Plus](devices/m5stack-stickc-plus.md)|🟧|🟥|4 MB|🟩|
 |[M5Stack StickC Plus2](devices/m5stack-stickc-plus2.md)|🟩|🟥|8 MB|🟩|
 |[Waveshare ESP32 S3 LCD 1.3"](devices/waveshare-s3-lcd-13.md)|🟩|🟩|16 MB|🟥|
