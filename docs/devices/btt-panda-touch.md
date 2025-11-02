@@ -5,7 +5,6 @@
 - ⚠️ SD card - Does not exist, see USB MSC.
 - ⏳ USB Mass Storage: May be possible via the USB-A OTG Host/Device port.
 - ✅ External I2C port - Enabled on the Rear JST PH 2.0 header GPIO-4 (SDA)/GPIO-3 (SCL).
-- ⏳ Power status: capable, but not yet implemented. Need more information.
 
 ## Links
 
